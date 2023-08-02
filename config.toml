@@ -4,16 +4,12 @@ theme = "nightfall"
 
 [menu]
   [[menu.header]]
-    name = "blog"
-    weight = 0
-    url = "blog"
-  [[menu.header]]
-    name = "about"
+    name = "why-nothing-matters"
     weight = 1
-    url = "about"
+    url = "why-nothing-matters"
 
 [params]
-author = "Hugo Nightfall"
+author = "Why Nothing Matters"
 user = "th0ughtcr1me"
 hostname = "oceania.sh"
 
